@@ -1,5 +1,5 @@
 ## Hi, Jerry here. 👋🦾
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hey!;Welcome+to+my+GitHub!;I+am+a+Full+Stack+Developer;&center=true&width=500&height=60" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hey+There!;Welcome+to+my+GitHub!;I+am+a+Full+Stack+Developer;&center=true&width=500&height=60" />
 
 
 <!--
