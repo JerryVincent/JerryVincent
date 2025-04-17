@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🌱 I’m currently learning ...
--Full Stack Development:
--Remix Framework
+- Full Stack Development:
+- Remix Framework
 ## 🔭 I’m currently working on ...
--openSenseMap:
--Adding new features to the existing software.
+- openSenseMap:
+- Adding new features to the existing software.
 
