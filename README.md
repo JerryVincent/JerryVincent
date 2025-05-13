@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning ...
 - Full Stack Development.
 - Remix Framework.
+- User Authentication.
+- Using ORMs.
 ## 🔭 I’m currently working on ...
 - openSenseMap- https://beta.opensensemap.org/
-- Adding new features to the existing software.
+- Adding new features to the existing Software.
 
