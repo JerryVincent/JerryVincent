@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - openSenseMap- https://beta.opensensemap.org/
 - Adding new features to the existing Software.
 - Adding API routes for openSenseMap software.
-- Creating API documentation.
+- Creating API documentation using openAPI and SwaggerUI.
 
