@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 ## 🔭 I’m currently working on ...
 - openSenseMap- https://beta.opensensemap.org/
 - Adding new features to the existing Software.
+- Adding API routes for openSenseMap software.
+- Creating API documentation.
 
