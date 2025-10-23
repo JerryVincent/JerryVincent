@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning ...
 - Full Stack Development.
 - Remix Framework.
-- User Authentication.
 - Using ORMs.
 ## 🔭 I’m currently working on ...
 - openSenseMap- https://beta.opensensemap.org/
 - Adding new features to the existing Software.
-- Adding API routes for openSenseMap software.
-- Creating API documentation using openAPI and SwaggerUI.
+- Working on my master's Thesis.
+## 📫 How to reach me: ...
+- Email: jerry.vincent@uni-muenster.de
 
