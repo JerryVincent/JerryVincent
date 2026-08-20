@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Using ORMs.
 ## 🔭 I’m currently working on ...
 - openSenseMap- https://beta.opensensemap.org/
-- Adding new features to the existing Software.
+- Adding new features to the existing openSenseMap Software.
 - Working on my master's Thesis.
 ## 📫 How to reach me: ...
 - Email: jerry.vincent@uni-muenster.de
